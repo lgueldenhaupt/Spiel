@@ -1,6 +1,8 @@
 FutureGame/Library/metadata/
 FutureGame/Temp/
 FutureGame/Library/ShaderCache/
+FutureGame/Library/assetDatabase3
+*.stamp
 
 
 #################
@@ -220,3 +222,5 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
+FutureGame/Library/CurrentLayout.dwlt
+FutureGame/Library/LastSceneManagerSetup.txt
